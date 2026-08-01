@@ -1,0 +1,550 @@
+[
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte1",
+    "fournisseur": "Claude",
+    "cout_baseline": 10,
+    "visites_baseline": 33,
+    "cout_waypoints": 10,
+    "visites_waypoints": 14,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte1",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 10,
+    "visites_baseline": 33,
+    "cout_waypoints": 10,
+    "visites_waypoints": 14,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte2",
+    "fournisseur": "Claude",
+    "cout_baseline": 10,
+    "visites_baseline": 33,
+    "cout_waypoints": 10,
+    "visites_waypoints": 14,
+    "nb_intermediaires": 4,
+    "waypoints": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte2",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 10,
+    "visites_baseline": 33,
+    "cout_waypoints": 10,
+    "visites_waypoints": 14,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte3",
+    "fournisseur": "Claude",
+    "cout_baseline": 10,
+    "visites_baseline": 31,
+    "cout_waypoints": 10,
+    "visites_waypoints": 14,
+    "nb_intermediaires": 4,
+    "waypoints": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte3",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 10,
+    "visites_baseline": 31,
+    "cout_waypoints": 10,
+    "visites_waypoints": 14,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte1",
+    "fournisseur": "Claude",
+    "cout_baseline": 21,
+    "visites_baseline": 110,
+    "cout_waypoints": 21,
+    "visites_waypoints": 30,
+    "nb_intermediaires": 3,
+    "waypoints": [
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        13,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte1",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 21,
+    "visites_baseline": 110,
+    "cout_waypoints": 21,
+    "visites_waypoints": 30,
+    "nb_intermediaires": 3,
+    "waypoints": [
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        13,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte2",
+    "fournisseur": "Claude",
+    "cout_baseline": 19,
+    "visites_baseline": 82,
+    "cout_waypoints": 19,
+    "visites_waypoints": 32,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        13,
+        2
+      ],
+      [
+        13,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte2",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 19,
+    "visites_baseline": 82,
+    "cout_waypoints": 19,
+    "visites_waypoints": 32,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        13,
+        2
+      ],
+      [
+        13,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte3",
+    "fournisseur": "Claude",
+    "cout_baseline": 19,
+    "visites_baseline": 87,
+    "cout_waypoints": 19,
+    "visites_waypoints": 41,
+    "nb_intermediaires": 3,
+    "waypoints": [
+      [
+        1,
+        8
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        13,
+        0
+      ],
+      [
+        13,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte3",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 19,
+    "visites_baseline": 87,
+    "cout_waypoints": 19,
+    "visites_waypoints": 30,
+    "nb_intermediaires": 4,
+    "waypoints": [
+      [
+        1,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        13,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte1",
+    "fournisseur": "Claude",
+    "cout_baseline": 42,
+    "visites_baseline": 171,
+    "cout_waypoints": 42,
+    "visites_waypoints": 81,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        16
+      ],
+      [
+        11,
+        16
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        28,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte1",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 42,
+    "visites_baseline": 171,
+    "cout_waypoints": 42,
+    "visites_waypoints": 67,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        16
+      ],
+      [
+        19,
+        16
+      ],
+      [
+        19,
+        1
+      ],
+      [
+        28,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte2",
+    "fournisseur": "Claude",
+    "cout_baseline": 44,
+    "visites_baseline": 343,
+    "cout_waypoints": 46,
+    "visites_waypoints": 63,
+    "nb_intermediaires": 3,
+    "waypoints": [
+      [
+        1,
+        16
+      ],
+      [
+        1,
+        17
+      ],
+      [
+        29,
+        17
+      ],
+      [
+        29,
+        1
+      ],
+      [
+        28,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte2",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 44,
+    "visites_baseline": 343,
+    "cout_waypoints": 44,
+    "visites_waypoints": 71,
+    "nb_intermediaires": 3,
+    "waypoints": [
+      [
+        1,
+        16
+      ],
+      [
+        1,
+        17
+      ],
+      [
+        15,
+        17
+      ],
+      [
+        15,
+        1
+      ],
+      [
+        28,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte3",
+    "fournisseur": "Claude",
+    "cout_baseline": 42,
+    "visites_baseline": 147,
+    "cout_waypoints": 42,
+    "visites_waypoints": 66,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        16
+      ],
+      [
+        1,
+        17
+      ],
+      [
+        28,
+        17
+      ],
+      [
+        28,
+        1
+      ]
+    ]
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte3",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 42,
+    "visites_baseline": 147,
+    "cout_waypoints": 42,
+    "visites_waypoints": 66,
+    "nb_intermediaires": 2,
+    "waypoints": [
+      [
+        1,
+        16
+      ],
+      [
+        1,
+        14
+      ],
+      [
+        28,
+        14
+      ],
+      [
+        28,
+        1
+      ]
+    ]
+  }
+]

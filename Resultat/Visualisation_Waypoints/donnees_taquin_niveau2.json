@@ -1,0 +1,30 @@
+{
+  "cout_baseline": 13,
+  "visites_baseline": 55,
+  "cout_dispositions": 13,
+  "visites_dispositions": 28,
+  "dispositions": [
+    [
+      1,
+      6,
+      2,
+      0,
+      8,
+      5,
+      4,
+      7,
+      3
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      0
+    ]
+  ]
+}

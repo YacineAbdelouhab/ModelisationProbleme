@@ -1,0 +1,92 @@
+[
+  {
+    "niveau": "niveau0_trivial",
+    "fournisseur": "Claude",
+    "cout_baseline": 1,
+    "visites_baseline": 1,
+    "cout_dispositions": 1,
+    "visites_dispositions": 1,
+    "nb_intermediaires": 1
+  },
+  {
+    "niveau": "niveau0_trivial",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 1,
+    "visites_baseline": 1,
+    "cout_dispositions": 1,
+    "visites_dispositions": 1,
+    "nb_intermediaires": 2
+  },
+  {
+    "niveau": "niveau1_facile",
+    "fournisseur": "Claude",
+    "cout_baseline": 30,
+    "visites_baseline": 1088,
+    "cout_dispositions": 30,
+    "visites_dispositions": 819,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau1_facile",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 30,
+    "visites_baseline": 1088,
+    "cout_dispositions": 30,
+    "visites_dispositions": 819,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "fournisseur": "Claude",
+    "cout_baseline": 66,
+    "visites_baseline": 1761,
+    "cout_dispositions": 66,
+    "visites_dispositions": 1814,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 66,
+    "visites_baseline": 1761,
+    "cout_dispositions": 66,
+    "visites_dispositions": 1626,
+    "nb_intermediaires": 0
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "fournisseur": "Claude",
+    "cout_baseline": 81,
+    "visites_baseline": 13428,
+    "cout_dispositions": 81,
+    "visites_dispositions": 11671,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 81,
+    "visites_baseline": 13428,
+    "cout_dispositions": 81,
+    "visites_dispositions": 13540,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau4_tres_difficile",
+    "fournisseur": "Claude",
+    "cout_baseline": 89,
+    "visites_baseline": 56240,
+    "cout_dispositions": 89,
+    "visites_dispositions": 51065,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau4_tres_difficile",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 89,
+    "visites_baseline": 56240,
+    "cout_dispositions": 89,
+    "visites_dispositions": 50924,
+    "nb_intermediaires": 3
+  }
+]

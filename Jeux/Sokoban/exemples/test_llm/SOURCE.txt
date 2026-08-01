@@ -1,0 +1,4 @@
+Niveau fait à la main (pas un vrai niveau Microban/original), 2 caisses,
+juste pour avoir une taille raisonnable en nombre d'appels API lors des
+tests des hooks LLM -- niveau1_facile (vrai Microban) a besoin de 1088
+états, bien trop pour un test avec de vrais appels API un par état.

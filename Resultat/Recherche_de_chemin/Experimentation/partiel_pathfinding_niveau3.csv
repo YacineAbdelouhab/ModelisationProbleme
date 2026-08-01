@@ -1,0 +1,4 @@
+axe,jeu,instance,variante,cout,visites,temps_total_s,nb_appels_api,temps_api_s
+1_points_insertion,Recherche_de_chemin,niveau3_difficile/carte1,baseline,42,171,0.002,0,0.0
+1_points_insertion,Recherche_de_chemin,niveau3_difficile/carte1,point1_departager,42,171,4854.665,150,4854.467
+1_points_insertion,Recherche_de_chemin,niveau3_difficile/carte1,point2_heuristique_lot,42,171,7102.57,150,7102.524

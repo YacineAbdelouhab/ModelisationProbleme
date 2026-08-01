@@ -1,0 +1,15 @@
+Niveaux repris de la collection Microban I (David W. Skinner, avril 2000),
+via https://github.com/KevinWang15/js-responsive-sokoban (David_W_Skinner_Arranged.txt).
+
+niveau1_facile.txt         = Microban I / Level 26
+niveau2_moyen.txt          = Microban I / Level 70
+niveau3_difficile.txt      = Microban I / Level 66
+niveau4_tres_difficile.txt = Microban I / Level 83
+
+Les niveaux dans exemples/original/ sont les 4 premiers niveaux du tout
+premier Sokoban (Thinking Rabbit, 1988, collection "Original"), via
+https://github.com/lieberkind/sokoban (original-levels.txt). Le niveau 1
+seul n'est pas résolu par notre A* + détection d'interblocage de coin même
+avec 3 millions d'états explorés (111s) -- gardé comme référence/preuve que
+Sokoban demande des techniques bien plus poussées que Recherche_de_chemin
+ou Taquin, pas comme exemple de travail.

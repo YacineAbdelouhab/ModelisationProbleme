@@ -1,0 +1,57 @@
+\relax 
+\providecommand\babel@aux[2]{}
+\@nameuse{bbl@beforestart}
+\catcode `:\active 
+\catcode `;\active 
+\catcode `!\active 
+\catcode `?\active 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\babel@aux{french}{}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{3}{section.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Résumé de A*}{3}{subsection.1.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Exemple jouet, en deux temps.}}{3}{figure.caption.2}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:astar-toy}{{1}{3}{Exemple jouet, en deux temps}{figure.caption.2}{}}
+\citation{meng2024llmastar}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Identification des points d'entrée pour un LLM}{4}{subsection.1.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Le mécanisme du papier LLM-A*}{4}{subsection.1.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.4}Question de recherche}{4}{subsection.1.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.5}Plan du rapport}{4}{subsection.1.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Un algorithme A* générique et trois points d'insertion}{5}{section.2}\protected@file@percent }
+\newlabel{sec:points}{{2}{5}{Un algorithme A* générique et trois points d'insertion}{section.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Quel état choisir pour l'exploration ? (point d'insertion 1)}{5}{subsection.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Peut on remplacer l'heuristique par un LLM ? (point d'insertion 2)}{5}{subsection.2.2}\protected@file@percent }
+\newlabel{sec:point2}{{2.2}{5}{Peut on remplacer l'heuristique par un LLM ? (point d'insertion 2)}{subsection.2.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Illustration de l'importance de la consistance}}{6}{figure.caption.4}\protected@file@percent }
+\newlabel{fig:contre-exemple}{{2}{6}{Illustration de l'importance de la consistance}{figure.caption.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Peut on laisser un LLM écarter des états ? (point d'insertion 3)}{8}{subsection.2.3}\protected@file@percent }
+\newlabel{sec:point3}{{2.3}{8}{Peut on laisser un LLM écarter des états ? (point d'insertion 3)}{subsection.2.3}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Le jugement libre rate même le coin, le cas le plus évident. Le raisonnement guidé corrige ce cas. Il rate cependant encore le \emph  {freeze deadlock}.}}{8}{table.caption.8}\protected@file@percent }
+\newlabel{tab:elaguer-batterie}{{1}{8}{Le jugement libre rate même le coin, le cas le plus évident. Le raisonnement guidé corrige ce cas. Il rate cependant encore le \emph {freeze deadlock}}{table.caption.8}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Reproduction du mécanisme du papier LLM-A*}{9}{section.3}\protected@file@percent }
+\newlabel{sec:waypoints}{{3}{9}{Reproduction du mécanisme du papier LLM-A*}{section.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Définitions d'un pathway pour chacun des jeux}{9}{subsection.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Un coût en appels API très différent}{9}{subsection.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Expérimentation}{9}{section.4}\protected@file@percent }
+\newlabel{sec:experimentation}{{4}{9}{Expérimentation}{section.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Définitions des heuristiques}{9}{subsection.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Protocole}{10}{subsection.4.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Nombre d'états explorés par A* classique, sans LLM, minimum--maximum sur les cartes testées par niveau. Sokoban microban n'a qu'une carte par niveau. Taquin niveau4 est exclu, trop coûteux.}}{10}{table.caption.9}\protected@file@percent }
+\newlabel{tab:sweep}{{2}{10}{Nombre d'états explorés par A* classique, sans LLM, minimum--maximum sur les cartes testées par niveau. Sokoban microban n'a qu'une carte par niveau. Taquin niveau4 est exclu, trop coûteux}{table.caption.9}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Résultats pour Recherche de chemin}{11}{subsection.4.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Recherche de chemin, tous les mécanismes comparés. Points 1 et 2 avec DeepSeek. LLM-A* avec Claude et DeepSeek.}}{11}{table.caption.10}\protected@file@percent }
+\newlabel{tab:pathfinding-tout}{{3}{11}{Recherche de chemin, tous les mécanismes comparés. Points 1 et 2 avec DeepSeek. LLM-A* avec Claude et DeepSeek}{table.caption.10}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Recherche de chemin niveau2\_moyen. À gauche, A* (110 états visités). À droite, LLM-A* (30 états visités), à coût identique, avec de points de passage intermédiaires.}}{11}{figure.caption.11}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Recherche de chemin niveau3\_difficile. À gauche, A* (171 états visités). À droite, LLM-A* avec Claude (81 états visités), à coût identique, avec 2 points de passage intermédiaires repérant le couloir libre du labyrinthe.}}{11}{figure.caption.12}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Résultats pour Taquin}{12}{subsection.4.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Taquin, tous les mécanismes comparés (mêmes variantes que pour Recherche de chemin). Points 1 et 2 avec DeepSeek. LLM-A* avec Claude et DeepSeek. Sur niveau3, Claude casse l'optimalité, coût 20 au lieu de l'optimum réel 16, et les deux fournisseurs visitent bien plus d'états que le baseline.}}{12}{table.caption.13}\protected@file@percent }
+\newlabel{tab:taquin-tout}{{4}{12}{Taquin, tous les mécanismes comparés (mêmes variantes que pour Recherche de chemin). Points 1 et 2 avec DeepSeek. LLM-A* avec Claude et DeepSeek. Sur niveau3, Claude casse l'optimalité, coût 20 au lieu de l'optimum réel 16, et les deux fournisseurs visitent bien plus d'états que le baseline}{table.caption.13}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Résultats pour Sokoban}{13}{subsection.4.5}\protected@file@percent }
+\newlabel{sec:claude-vs-deepseek}{{4.5}{13}{Résultats pour Sokoban}{subsection.4.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Sokoban, tous les mécanismes comparés. Points 1, 2 et 3 avec DeepSeek. LLM-A* avec Claude et DeepSeek. Sur niveau2 et niveau3, un des deux fournisseurs visite plus d'états que le baseline, en gras.}}{13}{table.caption.14}\protected@file@percent }
+\newlabel{tab:sokoban-officiel}{{5}{13}{Sokoban, tous les mécanismes comparés. Points 1, 2 et 3 avec DeepSeek. LLM-A* avec Claude et DeepSeek. Sur niveau2 et niveau3, un des deux fournisseurs visite plus d'états que le baseline, en gras}{table.caption.14}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6}Réponse à la problématique}{13}{subsection.4.6}\protected@file@percent }
+\bibcite{meng2024llmastar}{1}
+\gdef \@abspage@last{14}

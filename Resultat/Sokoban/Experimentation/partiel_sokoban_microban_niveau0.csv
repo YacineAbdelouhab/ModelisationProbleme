@@ -1,0 +1,5 @@
+axe,jeu,instance,variante,cout,visites,temps_total_s,nb_appels_api,temps_api_s
+1_points_insertion,Sokoban,microban/niveau0_trivial,baseline,1,1,0.0,0,0.0
+1_points_insertion,Sokoban,microban/niveau0_trivial,point1_departager,1,1,0.0,0,0.0
+1_points_insertion,Sokoban,microban/niveau0_trivial,point2_heuristique_lot,1,1,7.119,2,7.118
+1_points_insertion,Sokoban,microban/niveau0_trivial,point3_elaguer,1,1,2.685,1,2.684

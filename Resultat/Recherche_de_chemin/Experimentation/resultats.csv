@@ -1,0 +1,11 @@
+axe,jeu,instance,variante,cout,visites,temps_total_s,nb_appels_api,temps_api_s
+2_protections,Recherche_de_chemin,niveau1_facile/carte1,aucune_protection,10,28,756.366,28,756.361
+2_protections,Recherche_de_chemin,niveau1_facile/carte1,consistance_seule_pathmax,10,30,797.75,30,797.747
+2_protections,Recherche_de_chemin,niveau1_facile/carte1,admissibilite_seule_min,10,33,886.709,33,886.706
+2_protections,Recherche_de_chemin,niveau1_facile/carte1,les_deux_protections,10,33,906.334,33,906.331
+1_points_insertion,Recherche_de_chemin,niveau2_moyen/carte1,baseline,21,110,0.001,0,0.0
+1_points_insertion,Recherche_de_chemin,niveau2_moyen/carte1,point1_departager,21,109,3464.86,109,3464.811
+1_points_insertion,Recherche_de_chemin,niveau2_moyen/carte1,point2_heuristique_lot,21,110,4582.54,106,4582.527
+1_points_insertion,Recherche_de_chemin,niveau3_difficile/carte1,baseline,42,171,0.002,0,0.0
+1_points_insertion,Recherche_de_chemin,niveau3_difficile/carte1,point1_departager,42,171,4854.665,150,4854.467
+1_points_insertion,Recherche_de_chemin,niveau3_difficile/carte1,point2_heuristique_lot,42,171,7102.57,150,7102.524

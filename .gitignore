@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+Rapport/*.aux
+Rapport/*.log
+Rapport/*.out
+Rapport/*.toc

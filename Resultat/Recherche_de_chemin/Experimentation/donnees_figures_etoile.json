@@ -1,0 +1,26 @@
+{
+  "niveau3_difficile": {
+    "cout_baseline": 42,
+    "visites_baseline": 171,
+    "cout_waypoints": 44,
+    "visites_waypoints": 68,
+    "waypoints": [
+      [
+        1,
+        16
+      ],
+      [
+        1,
+        17
+      ],
+      [
+        28,
+        17
+      ],
+      [
+        28,
+        1
+      ]
+    ]
+  }
+}

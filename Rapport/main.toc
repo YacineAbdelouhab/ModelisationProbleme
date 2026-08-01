@@ -1,0 +1,21 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Résumé de A*}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Identification des points d'entrée pour un LLM}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Le mécanisme du papier LLM-A*}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Question de recherche}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Plan du rapport}{4}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Un algorithme A* générique et trois points d'insertion}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Quel état choisir pour l'exploration ? (point d'insertion 1)}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Peut on remplacer l'heuristique par un LLM ? (point d'insertion 2)}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Peut on laisser un LLM écarter des états ? (point d'insertion 3)}{8}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Reproduction du mécanisme du papier LLM-A*}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Définitions d'un pathway pour chacun des jeux}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Un coût en appels API très différent}{9}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Expérimentation}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Définitions des heuristiques}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Protocole}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Résultats pour Recherche de chemin}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Résultats pour Taquin}{12}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Résultats pour Sokoban}{13}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Réponse à la problématique}{13}{subsection.4.6}%

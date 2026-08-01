@@ -1,0 +1,5 @@
+axe,jeu,instance,variante,cout,visites,temps_total_s,nb_appels_api,temps_api_s
+1_points_insertion,Sokoban,microban/niveau1_facile,baseline,30,1088,0.057,0,0.0
+1_points_insertion,Sokoban,microban/niveau1_facile,point1_departager,30,1088,4271.66,150,4270.47
+1_points_insertion,Sokoban,microban/niveau1_facile,point2_heuristique_lot,30,1088,6649.423,150,6649.326
+1_points_insertion,Sokoban,microban/niveau1_facile,point3_elaguer,30,1088,4225.482,150,4225.342

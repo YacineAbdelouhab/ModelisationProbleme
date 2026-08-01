@@ -1,0 +1,182 @@
+[
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte1",
+    "fournisseur": "Claude",
+    "cout_baseline": 4,
+    "visites_baseline": 4,
+    "cout_dispositions": 4,
+    "visites_dispositions": 4,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte1",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 4,
+    "visites_baseline": 4,
+    "cout_dispositions": 4,
+    "visites_dispositions": 4,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte2",
+    "fournisseur": "Claude",
+    "cout_baseline": 4,
+    "visites_baseline": 4,
+    "cout_dispositions": 4,
+    "visites_dispositions": 4,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte2",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 4,
+    "visites_baseline": 4,
+    "cout_dispositions": 4,
+    "visites_dispositions": 4,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte3",
+    "fournisseur": "Claude",
+    "cout_baseline": 8,
+    "visites_baseline": 17,
+    "cout_dispositions": 8,
+    "visites_dispositions": 8,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau1_facile",
+    "carte": "carte3",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 8,
+    "visites_baseline": 17,
+    "cout_dispositions": 8,
+    "visites_dispositions": 8,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte1",
+    "fournisseur": "Claude",
+    "cout_baseline": 13,
+    "visites_baseline": 55,
+    "cout_dispositions": 13,
+    "visites_dispositions": 30,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte1",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 13,
+    "visites_baseline": 55,
+    "cout_dispositions": 13,
+    "visites_dispositions": 38,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte2",
+    "fournisseur": "Claude",
+    "cout_baseline": 13,
+    "visites_baseline": 83,
+    "cout_dispositions": 13,
+    "visites_dispositions": 60,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte2",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 13,
+    "visites_baseline": 83,
+    "cout_dispositions": 13,
+    "visites_dispositions": 41,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte3",
+    "fournisseur": "Claude",
+    "cout_baseline": 11,
+    "visites_baseline": 34,
+    "cout_dispositions": 11,
+    "visites_dispositions": 11,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau2_moyen",
+    "carte": "carte3",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 11,
+    "visites_baseline": 34,
+    "cout_dispositions": 11,
+    "visites_dispositions": 16,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte1",
+    "fournisseur": "Claude",
+    "cout_baseline": 16,
+    "visites_baseline": 48,
+    "cout_dispositions": 20,
+    "visites_dispositions": 241,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte1",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 16,
+    "visites_baseline": 48,
+    "cout_dispositions": 16,
+    "visites_dispositions": 170,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte2",
+    "fournisseur": "Claude",
+    "cout_baseline": 14,
+    "visites_baseline": 18,
+    "cout_dispositions": 14,
+    "visites_dispositions": 32,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte2",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 14,
+    "visites_baseline": 18,
+    "cout_dispositions": 14,
+    "visites_dispositions": 74,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte3",
+    "fournisseur": "Claude",
+    "cout_baseline": 16,
+    "visites_baseline": 68,
+    "cout_dispositions": 16,
+    "visites_dispositions": 97,
+    "nb_intermediaires": 3
+  },
+  {
+    "niveau": "niveau3_difficile",
+    "carte": "carte3",
+    "fournisseur": "DeepSeek",
+    "cout_baseline": 16,
+    "visites_baseline": 68,
+    "cout_dispositions": 18,
+    "visites_dispositions": 44,
+    "nb_intermediaires": 3
+  }
+]
