@@ -1,6 +1,6 @@
 # Un LLM dans l'algorithme A* sans forcément casser les garanties théoriques ?
 
-M2 IASD App — Projet Modélisation de Problèmes
+M2 IASD App - Projet Modélisation de Problèmes
 ABDELOUHAB Yacine et JANIN Paul
 
 Le rapport complet (méthode, preuves, résultats) est dans [`Rapport/main.pdf`](Rapport/main.pdf).
